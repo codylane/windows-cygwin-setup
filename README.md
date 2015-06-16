@@ -23,7 +23,7 @@ This will invoke the cygwin setup utility and installed all the packages listed 
 cygwin-package-install.bat
 ```
 
-## IF you'd like to customize your install
+## If you'd like to customize your install
 This is just an example so if you like to add more packages just add more packages in a comma seperate list like so:
 ```
 SET PACKAGES=%PACKAGES%,package1,package2,package3
