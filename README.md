@@ -14,7 +14,7 @@ Download on your windows machine either using `git clone` or click the file and 
 ## NOTE: If you require a proxy in your envionment
 Set this variable in the command window
 ```
-SET PROXY=http://someproxy.example.com:8080
+SET PROXY=someproxy.example.com:8080
 ```
 
 ## Run the script to install 
