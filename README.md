@@ -30,3 +30,6 @@ SET PACKAGES=%PACKAGES%,package1,package2,package3
 ```
 
 Then re-run the `cygwin-package-install.bat`
+
+# Contributing
+Please fork or submit pull requests if you find a problem.  I'm happy to merge in changes and or improvements that work better for you.  Let's make this thing better together!
